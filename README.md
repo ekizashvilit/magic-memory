@@ -9,4 +9,4 @@
 
 ## Links
 
-- Live Site URL: [Magic Memory](https://lucent-kitsune-a2041e.netlify.app/)
+- Live Site URL: [Magic Memory](https://magic-memory-game-tekizashvili.netlify.app/)
